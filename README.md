@@ -79,7 +79,7 @@ $env:PYTHON38_PATH    = "<Python 3.8 安装目录>"
 
 ```powershell
 # 克隆到 Claude Code skills 目录
-git clone https://github.com/<your-username>/stm32f4-cli-dev.git "$env:USERPROFILE\.claude\skills\stm32f4-cli-dev"
+git clone https://github.com/csdadd/stm32f4-cli-dev.git "$env:USERPROFILE\.claude\skills\stm32f4-cli-dev"
 ```
 
 或手动下载解压到 `%USERPROFILE%\.claude\skills\stm32f4-cli-dev\`。
